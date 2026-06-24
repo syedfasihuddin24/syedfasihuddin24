@@ -23,12 +23,6 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfasihuddin24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Syed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfasihuddin24&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
