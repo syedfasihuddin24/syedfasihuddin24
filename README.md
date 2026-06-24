@@ -50,26 +50,9 @@ Here are a few of the projects I've been working on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfasihuddin24&show_icons=true&theme=dark&hide_border=true" alt="Syed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=syedfasihuddin24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
 ---
 
 <p align="center">
   <i>"Keep coding, keep learning."</i> ✨
 </p>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
