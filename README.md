@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**syedfasihuddin24/syedfasihuddin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi there, I'm Syed Fasihuddin! 👋
 ### AI / Machine Learning & Full-Stack Developer 🚀
 
